@@ -6,6 +6,6 @@ Sentiment analysis helps data analysts within large enterprises gauge public opi
 
 Here we will be using the Twitter data to get the sentiments of the tweets. We have distinguished the results into three types :
 
-Positive
-Negative
-Neutral
+- [x] Positive
+- [x] Negative
+- [x] Neutral
